@@ -19,22 +19,11 @@ I'm a passionate software developer with a keen interest in full-stack developme
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📈 GitHub Stats
-
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=james-skills&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=james-skills&layout=compact&theme=radical)
-
-## 🌱 I'm Currently Learning
-
-- Advanced TypeScript
-- Cloud Architecture with AWS
-- Microservices with Kubernetes
-
 ## 📫 How to Reach Me
 
 - LinkedIn: [James Skills](https://www.linkedin.com/in/james-skills/)
 - Twitter: [@james_skills](https://twitter.com/james_skills)
-- Email: james.skills@example.com
+- Email: jameschan0088@gmail.com
 
 ## 📝 Latest Blog Posts
 
@@ -51,6 +40,3 @@ I'm a passionate software developer with a keen interest in full-stack developme
 - Become an AWS Certified Solutions Architect
 
 Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just chat about tech.
-
-![GitHub followers](https://img.shields.io/github/followers/james-skills?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/james-skills?style=social)
