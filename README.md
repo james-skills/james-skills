@@ -24,7 +24,7 @@ I'm a passionate software developer with a keen interest in full-stack developme
 
 - LinkedIn: [James Skills](https://www.linkedin.com/in/james-skills/)
 - Twitter: [@james_skills](https://twitter.com/james_skills)
-- Email: jameschan0088@gmail.com
+- Email: talent.james0088@gmail.com
 
 ## 📝 Latest Blog Posts
 
