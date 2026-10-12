@@ -26,7 +26,7 @@ I'm a passionate software developer with a keen interest in full-stack developme
 - Email: talent.james0088@gmail.com
 - X: [@JamesTrabqikp]
 - Instagram [@talent.james0088](https://www.instagram.com/talent.james0088/)
-- Facebook [@James](https://www.facebook.com/profile.php?id=61590549098335)
+- Facebook [@James](https://www.facebook.com/profile.php?id=61590549098335911)
 
 ## 📝 Latest Blog Posts
 
